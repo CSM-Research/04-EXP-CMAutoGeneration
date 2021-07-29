@@ -35,6 +35,15 @@ So far, we provide configs for:
 
 Most recent (29/07/2021) results for these classifiers:
 
+TL;DR: 
+
+j48 → Acuracy: 83% 
+Naive Bayes Multinomial → Acuracy: 84% 
+Random Forest → Acuracy: 79% 
+Decision stump → Acuracy: 86% 
+Hoeffding tree → Acuracy: 72% 
+REPtree → Acuracy: 85%  
+
 ## J48 Classifier
 
 ```plaintext
@@ -162,7 +171,7 @@ Weighted Avg.    0,863    0,285    0,864      0,863    0,856      0,651    0,759
 
 ```
 
-## Hoeffding tree
+## Hoeffding tree Classifier
 
 ```plaintext
 
