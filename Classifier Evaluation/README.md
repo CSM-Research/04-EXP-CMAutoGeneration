@@ -12,6 +12,7 @@ Next, you must:
 - Step 5: Click on "classify" tab and choose the algorithm which you want to use and change the parameters.
 - Step 6: Click on start and checkou the results.
 
+--- 
 
 Weka contains many classifiers implemented and ready to use. However, there is many parameters to be adjusted and it may become a little bit hard to setup everything. Therefore, to facilitate this process we provide in folder "configs" a file to automatically setup Weka classifier.
 
@@ -30,6 +31,7 @@ So far, we provide configs for:
 - Hoeffding tree
 - REPtree
 
+---
 
 Most recent (29/07/2021) results for these classifiers:
 
