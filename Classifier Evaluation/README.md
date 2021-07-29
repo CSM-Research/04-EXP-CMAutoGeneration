@@ -37,12 +37,12 @@ Most recent (29/07/2021) results for these classifiers:
 
 TL;DR: 
 
-j48 → Acuracy: 83% 
-Naive Bayes Multinomial → Acuracy: 84% 
-Random Forest → Acuracy: 79% 
-Decision stump → Acuracy: 86% 
-Hoeffding tree → Acuracy: 72% 
-REPtree → Acuracy: 85%  
+1. j48 → Acuracy: 83% 
+2. Naive Bayes Multinomial → Acuracy: 84% 
+3. Random Forest → Acuracy: 79% 
+4. Decision stump → Acuracy: 86% 
+5. Hoeffding tree → Acuracy: 72% 
+6. REPtree → Acuracy: 85%  
 
 ## J48 Classifier
 
