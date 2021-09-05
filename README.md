@@ -1,4 +1,4 @@
-# Experimentation of Concept Map Auto Generation
+# Automatic Concept Map Creation - Approach Validation
 
 This project was created by the research group of the Federal Technological University of Paraná - Cornélio Procópio Campus.
 
@@ -7,7 +7,7 @@ Before you start, you need to understand a bit of the context in which this expe
 In this repository, you will find the replication kit used to evaluate our approach to automatically build graphic abstracts using NLP techniques. In the next sections, we describe the experimental setup used to evaluate if the concept maps created automatically are similar to those created manually. In addition, we also evaluated the efficiency of the classifier used in our approach using machine learning techniques and this data is available too.
 
 
-# Classifier evaluation
+# 1. Classifier evaluation
 
 In this folder, we provide the assets necessary to perform the classifier training:
 
@@ -20,7 +20,7 @@ To audit these results you must download weka and import these data for explorer
 https://github.com/csm-applications/CSM-CMtoolkit
 
 
-# Experimental Setup (Survey validation)
+# 2. Experimental Setup (Survey validation)
 
 In this folder, you will find:
 - Forms used to survey the participants
