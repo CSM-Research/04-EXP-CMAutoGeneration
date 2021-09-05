@@ -20,7 +20,7 @@ To audit these results you must download weka and import these data for explorer
 https://github.com/csm-applications/CSM-CMtoolkit
 
 
-# 2. Experimental Setup (Survey validation)
+# 2. Survey
 
 In this folder, you will find:
 - Forms used to survey the participants
